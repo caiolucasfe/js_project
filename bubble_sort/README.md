@@ -6,4 +6,4 @@ The goals is to demonstrate how the comparison and swapping logic works whitin a
 
 Implementation of the Bubble Sort algorithm : ***Completed***
 
-Document animation using CSS and JavaScript: ***Incomplete***
+Document animation using CSS and JavaScript: ***Completed***
